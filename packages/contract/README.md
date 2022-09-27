@@ -30,9 +30,5 @@ open new terminal and deploy our contract
 forge create Counter --contracts ./src/Counter.sol --private-key <your private key>
 ```
 
-check validator address
 
-```bash
-cast call <deployed contract> "checkValidatorAddress()"
-```
 
