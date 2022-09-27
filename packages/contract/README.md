@@ -27,7 +27,7 @@ $ anvil
 open new terminal and deploy our contract
 
 ```bash
-forge create Counter --contracts ./src/Counter.sol --private-key <your private key>
+forge create Counter --contracts ./src/Counter.sol --private-key <your private key> --rpc-url <your rpc url>
 ```
 
 
