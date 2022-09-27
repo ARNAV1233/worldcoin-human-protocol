@@ -2,7 +2,7 @@
 
 In this repo i'm gonna show you how you can use proof of humanity by humans protocol based on [Human Protocol counter repo](https://github.com/Human-Protocol/poh-counter-example) , integrate with proof of person by worldcoin as a plugin to prevent sybil attack
 
-# Link to react plugn and how to use 
+# Link to react plugin and how to use 
 
 https://github.com/spiritbro1/worldcoin-human-protocol/tree/main/packages/poh-validator-worldcoin-react
 
