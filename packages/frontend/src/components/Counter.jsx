@@ -7,7 +7,7 @@ import Button from './Button';
 import Spinner from './Spinner';
 import Error from './Error';
 import { contractAddress, validatorApiUrl, actionId} from '../config';
-import WordlcoinValidator from 'poh-validator-worldcoin-react'
+import WorldcoinValidator from 'poh-validator-worldcoin-react'
 import { useAddress } from "@thirdweb-dev/react";
 import { WorldIDWidget, WidgetProps } from "@worldcoin/id";
 const abi = [
@@ -52,7 +52,7 @@ function Counter() {
   }, [ethereum]);
 
   const validator = (
-    <WordlcoinValidator
+    <WorldcoinValidator
     actionId={actionId}
       validatorApiUrl={validatorApiUrl}
       signal={account}
