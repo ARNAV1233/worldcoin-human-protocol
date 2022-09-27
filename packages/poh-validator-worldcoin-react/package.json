@@ -1,6 +1,6 @@
 {
   "name": "poh-validator-worldcoin-react",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "Proof-of-Humanity Validator Plugin React Component for Worldcoin ID",
   "main": "lib/index.js",
   "module": "lib/index.es.js",
@@ -20,12 +20,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Human-Protocol/poh-validator-hcaptcha-react.git"
+    "url": "https://github.com/spiritbro1/worldcoin-human-protocol.git"
   },
   "bugs": {
-    "url": "https://github.com/Human-Protocol/poh-validator-hcaptcha-react/issues"
+    "url": "https://github.com/spiritbro1/worldcoin-human-protocol/issues"
   },
-  "homepage": "https://github.com/Human-Protocol/poh-validator-hcaptcha-react#readme",
+  "homepage": "https://github.com/spiritbro1/worldcoin-human-protocol/tree/main/packages/poh-validator-worldcoin-react#readme",
   "files": [
     "lib"
   ],
