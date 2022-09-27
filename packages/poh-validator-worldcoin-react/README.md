@@ -4,6 +4,19 @@
 
 https://panda-hazel.vercel.app/ ([source code](https://github.com/spiritbro1/worldcoin-human-protocol))
 
+## NPM link
+
+https://www.npmjs.com/package/poh-validator-worldcoin-react
+
+## How to publish to NPM
+
+```bash
+$ npm config set registry https://registry.npmjs.org/
+$ npm login
+$ npm publish
+
+```
+
 ## Required props
 
 You have to provide these props:
