@@ -1,6 +1,6 @@
 # Counter contract with proof of humanity and proof of personhood by worldcoin
 
-In this repo i'm gonna show you how you can use proof of humanity by humans protocol based on [Human Protocol counter repo](https://github.com/Human-Protocol/poh-counter-example) , integrate with proof of person by worldcoin as a plugin to prevent sybil attack
+In this repo i'm gonna show you how you can use proof of humanity by humans protocol based on [Human Protocol counter repo](https://github.com/Human-Protocol/poh-counter-example) , integrate with proof of person by worldcoin as a plugin to prevent sybil attack to complete the project
 
 # Link to react plugin and how to use 
 
